@@ -109,7 +109,7 @@
 ## 📫 Let's Connect
 
 - 📧 Email: [visheshyadav62@gmail.com](mailto:visheshyadav62@gmail.com)  
-- 📱 Phone: +91-9616265078  
+- 📱 Phone: +91-
 - 🔗 LinkedIn: [linkedin.com/in/vishesh-yadav-](https://linkedin.com/in/vishesh-yadav-)  
 - 🐙 GitHub: [github.com/vishesh2408](https://github.com/vishesh2408)
 
