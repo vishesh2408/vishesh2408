@@ -25,6 +25,8 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -52,37 +54,32 @@
 
 ### 🧑‍🏫 [Educational Website Platform](https://github.com/vishesh2408/Myproject-Educational-Website-INT-219)
 🛠️ *React, Node.js, MongoDB*  
-- Developed an educational platform for students, teachers, and parents.
-- Included quizzes, discussion forums, and progress tracking.
-- Enhanced UX by 30% and learning engagement by 40%.
+- Educational platform with quizzes, discussion forums, and student dashboards.
+- Built for teachers, students, and parents with role-based access.
+- Boosted engagement and learning outcomes with interactive UX.
 
 ### 📝 [Online Examination System](https://github.com/vishesh2408/Online_Examination_System)  
 🛠️ *PHP, MySQL, JavaScript*  
-- Created an end-to-end examination portal for students and admins.
-- 150+ users, 1000+ questions, automated grading, secure login.
-- Focused on data integrity and exam confidentiality.
+- Secure login system, dynamic question bank, auto-evaluation.
+- Used by 150+ students with detailed performance analytics.
 
 ### 📅 [Event Planning Platform](https://github.com/vishesh2408/EventPlanningPlateform)
 🛠️ *PHP, JavaScript*  
-- Platform for planning events with guest lists and task management.
-- Modular design and responsive user interface.
+- Web app for planning events with guests, vendors, and tasks.
+- Focused on responsive design and easy-to-manage workflow.
 
-### 📱 [React Native Projects]
-- 🧠 [Puzzle Game App](https://github.com/vishesh2408/Puzzle-React-Native-App) — engaging brain games in React Native.
-- 📚 **Eduzzle App** (private) — mobile learning app built collaboratively using React Native.
-
-### 🌐 [Portfolio Website](https://github.com/vishesh2408/portfolio_vishesh)
-🛠️ *HTML, CSS, JavaScript*  
-- Highlights projects, certifications, and skills in a clean layout.
+### 📱 React Native Projects
+- 🧠 [Puzzle Game App](https://github.com/vishesh2408/Puzzle-React-Native-App) – engaging mobile brain teaser.
+- 📘 **Eduzzle App** *(private)* – learning app using React Native and Firebase.
 
 ---
 
 ## 📚 Training
 
 ### GeeksforGeeks – Data Structures and Algorithms (Jun – Jul 2024)
-- Mastered algorithmic problem-solving with 1.5x improvement in efficiency.
-- Reduced debugging time by 30% and optimized code performance by 15%.
-- Applied real-world strategies to solve complex challenges.
+- Improved problem-solving efficiency by 1.5×
+- Reduced debugging time by 30%
+- Optimized data structure usage for faster performance
 
 ---
 
@@ -109,7 +106,7 @@
 ## 📫 Let's Connect
 
 - 📧 Email: [visheshyadav62@gmail.com](mailto:visheshyadav62@gmail.com)  
-- 📱 Phone: +91-
+- 📱 Phone: +91-  
 - 🔗 LinkedIn: [linkedin.com/in/vishesh-yadav-](https://linkedin.com/in/vishesh-yadav-)  
 - 🐙 GitHub: [github.com/vishesh2408](https://github.com/vishesh2408)
 
